@@ -2,6 +2,6 @@ const config = {};
 
 
 config.port = process.env.PORT || 3000;
-config.dbURL = process.env.DATABASEURL || "mongodb+srv://new-user-001:YouSawThis@cluster0.vn8jv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+config.dbURL = process.env.DATABASEURL || "mongodb+srv://"; // enter your MongoDB URI here
 
 module.exports = config;
