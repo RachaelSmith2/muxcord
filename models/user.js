@@ -3,6 +3,7 @@ const   validator = require("validator");
 // const   _         = require("lodash");
 
  const userSchema = new mongoose.Schema({
+   
     username: {
         type: String,
         unique: true,
