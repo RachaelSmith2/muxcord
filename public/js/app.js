@@ -300,7 +300,7 @@ $(function () {
     particlesJS("particles-js", {
         "particles": {
             "number": {
-                "value": 100,
+                "value": 50,
                 "density": {
                     "enable": true,
                     "value_area": 250
@@ -329,17 +329,17 @@ $(function () {
                 "random": false,
                 "anim": {
                     "enable": true,
-                    "speed": 0.2,
+                    "speed": 2,
                     "opacity_min": 0,
                     "sync": false
                 }
             },
             "size": {
-                "value": 2,
+                "value": 8,
                 "random": true,
                 "anim": {
                     "enable": true,
-                    "speed": 2,
+                    "speed": 20,
                     "size_min": 0,
                     "sync": false
                 }
