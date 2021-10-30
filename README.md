@@ -1,6 +1,6 @@
-# MiniCord
+# MuxCord
 <p align="center">
-  <img width="150" height="100" src="https://github.com/ThalKod/discord-clone/blob/master/MiniCord.png"> </br>
+  <img width="150" height="100" src="MuxCord.png"> </br>
   A "Discord clone" with Socket.io, Node.js &amp; MongoDB... 
 </p>
 
@@ -40,3 +40,5 @@ config.dbURL = process.env.DATABASEURL || "mongodb://localhost/minicord";
 - [ ] Emoji Sharing...
 - [ ] Image Sharing within chat...
 - [ ] Files Upload and sharing...
+
+This is a clone of [ThalKod's repository](https://github.com/ThalKod/discord-clone). This repository may NOT contain all the code and files used in the production build [here](https://muxcord.apps.muxworks.com/).
