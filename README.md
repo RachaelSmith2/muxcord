@@ -1,6 +1,6 @@
 # MuxCord
 <p align="center">
-  <img width="150" height="100" src="MuxCord.png"> </br>
+  <img width="150" height="100" src="MUXCORD-logo.png"> </br>
   A "Discord clone" with Socket.io, Node.js &amp; MongoDB... 
 </p>
 
