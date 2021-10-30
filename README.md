@@ -4,7 +4,7 @@
   A "Discord clone" with Socket.io, Node.js &amp; MongoDB... 
 </p>
 
-![Profile MiniCord](https://github.com/ThalKod/discord-clone/blob/master/Profile_Screen.png)
+![Sample Screen MuxCord](screenshot.png)
 
 
 # :floppy_disk: Installation
